@@ -1,0 +1,24 @@
+#principal {
+  background-color: lightgray;
+  display: flex;
+  flex-direction: row;
+  margin: 15px 20px 5px 30px;
+  border: 10px solid black;
+  padding: 20px 50px;
+}
+.divs-containers {
+  flex: 1;
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: blueviolet;
+}
+
+.box {
+  background-color: lightsalmon;
+}

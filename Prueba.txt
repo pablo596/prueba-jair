@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang ="es">
+    <head>
+        <meta charset ="UTF-8">
+        <meta name ="viewport" content ="width=device-width, initial-scale=1.0">
+        <meta http-equiv ="X-UA-Compatible" content ="ie=edge">
+        <name="description" content ="La Prueba de la Prueba">
+        <title>Yozarus</title> 
+    </head>
+    <body>
+        <header>
+            <h1>Yozarus</h1>
+                <nav>
+                    <ul>
+                        <li><a href="Prueba.html">Inicio</a></li>
+                        <li><a href="https://www.facebook.com/Jairsuarez9806">Facebook</a></li>
+                    </ul>
+                </nav>
+            <div>
+                <h2>Mis highlights</h2>
+                    <video width="320" height="240" controls>
+                        <source src="LeBlanc.mp4" type="video/mp4">
+                    </video>
+                    <video width="320" height="240" controls>
+                        <source src="Briar.mp4" type="video/mp4">
+                    </video>
+            </div>
+        </header>
+        <main>
+            <h2>Estadisticas</h2>
+            <p>Las Estadisticas de 1 año jugando.</p>
+            <ma>
+                <li>Partidas jugadas: 500</li>
+                <li>Victorias: 380</li>
+                <li>Derrotas: 120</li>
+                <li>Racha de derrotas: 36</li>
+                <li>Mejor partida: 36 kills</li>
+        </main>
+    </body> 
